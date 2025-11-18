@@ -1,4 +1,4 @@
-# GS_Homelab_v1
+# GScott_Homelab_v1
 > Documentation of my ProxMox-based homelab setup
 >
 > **Status:** In Progress (Month 1 of 9)  
