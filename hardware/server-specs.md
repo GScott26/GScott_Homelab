@@ -81,7 +81,7 @@ This document provides detailed specifications for the primary ProxMox server ru
 ***Storage Notes:***
 - Consider upgradeing to SSD--NVMe preferred, SATA III at least--to improve VM performance
 - Current setup should be suitable for my first few planned projects.
-- Backup Strategy: Create and export backups to main PC's high capacity reserve drive (2TB 7200RPM Seagate Barracuda Compute HDD, mostly unused currently besides some game saves from games I havent played in a while). Should prove sufficient while I learn more about data redundancy and automation of these tasks. See [backup-strategies.md](proxmox/backup-strategies.md) for more info.
+- Backup Strategy: Create and export backups to main PC's high capacity reserve drive (2TB 7200RPM Seagate Barracuda Compute HDD, mostly unused currently besides some game saves from games I havent played in a while). Should prove sufficient while I learn more about data redundancy and automation of these tasks. See [backup-strategies.md](GScott_Homelab/proxmox/backup-strategies.md) for more info.
 
 ---
 
