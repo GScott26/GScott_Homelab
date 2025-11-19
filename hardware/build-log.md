@@ -59,7 +59,7 @@ Intel stock cooler verified working. Should handle server workload (no overclock
 Originally planned to run at JEDEC speeds (2666MHz) for stability. However, this kit ran stable at 3200MHz for previous owner. Will enable XMP for better VM performance. Can always disable if instability occurs.
 
 **[4] Storage - HDD Concerns & Upgrade Path:**
-- **Age/Health:** Unknown hours, from laptop manufactured around 2018 - will run SMART test in shell once ProxMox VE is installed
+- **Age/Health:** Unknown hours, from laptop manufactured around 2018 - will run SMART test in shell once Proxmox VE is installed
 - **Speed:** ~100MB/s read/write vs SSD's 500MB/s - expect slower VM performance
 - **Reliability:** Single point of failure - will implement backups immediately
 - **Upgrade Path:** Planning to add m.2 SATA or NVMe SSD (500GB-1TB) within 1-2 months
